@@ -1,0 +1,7 @@
+WHITE- Main Core
+YELLOW - Addtional Emergency Protection Rods
+RED - Emergygency Protection Rods
+BLUE -Automatic Control Rods
+GRAY - Without Rods
+GREEN - Compensating Rods
+BLACK - Control and Compensating Rods

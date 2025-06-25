@@ -1,0 +1,37 @@
+Nuclear Reactor Power Generation Process:
+
+In a nuclear reactor, firstly we have a concrete chamber inside the chamber we have a steel vessel. 
+It is inside this steel vessel where the nuclear reaction actually takes place.
+Then we have the fuel rods inside it. 
+These rods are the fissionable materials used for the reactions. 
+Generally we use uranium-235 (235U), plutonium, thorium etc.
+
+In between the fuel rods we have the control rods. 
+They are generally made of cadmium. 
+They are used to control the nuclear reactions.
+When the reaction takes place a large amount of heat is produced. 
+Thus heat is transferred to the heat exchanger by means of a pump. 
+Inside the heat exchanger we have liquid sodium as coolant. 
+The heat exchanger is again connected to the steel vessel.
+The high pressure steam from the heat exchanger is passed on to the turbine. 
+Turbine is a mechanical component which is coupled to the generator. 
+When the high pressure steam reaches the turbine, the turbine rotates due to the high pressure.
+Due to the rotation of the turbine the generator will produce electricity.
+The steam from the turbine should be converted back into water, so that it can be reused for the reaction. 
+For that the steam from the turbine is passed on to a condenser. The condenser converts the steam into water.
+Then by means of a pump the water is pumped back into the heat exchanger.
+
+Note:
+Inside a nuclear reactor the heat produced by nuclear reaction is converted into electricity by the means of a generator.
+The main components of a nuclear reactor are:
+
+Fuel: the fissionable material used in the reaction.
+Moderator: to decrease the speed of the fast moving neutrons formed during the fission.
+Control rods: used to control the reaction or to stop the chain reaction.
+Coolant: to absorb the heat produced by fission.
+Turbine: the turbine rotates due to the heat. Therefore the heat energy is converted into mechanical energy in a turbine.
+Generator: it converts the mechanical energy into electrical energy.
+
+
+
+

@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="atom">
+    <file>cosmos-atom-logo.png</file>
+  </qresource>
+</RCC>
